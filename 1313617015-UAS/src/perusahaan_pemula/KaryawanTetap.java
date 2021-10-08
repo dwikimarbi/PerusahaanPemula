@@ -1,7 +1,7 @@
 package perusahaan_pemula;
 /***
  * 
- * @author DNABigBoss - hanunalya22@gmail.com
+ * @author DNABigBoss
  *
  */
 public class KaryawanTetap {
